@@ -1,0 +1,35 @@
+.jumbotron {
+  margin-top: 70px;
+  background-color: #a8a8a8;
+  padding: 10px;
+}
+
+.card-text {
+  text-align: justify;
+}
+
+#About h2 {
+  margin-top: 75px;
+}
+
+#About p {
+  text-align: justify;
+}
+#About {
+  margin-bottom: 70px;
+}
+#project {
+  background-color: #a8a8a8;
+  padding: 10px;
+}
+#project h2 {
+  margin-top: 70px;
+}
+
+section {
+  margin-top: -7px;
+}
+footer {
+  background-color: black;
+  color: white;
+}
